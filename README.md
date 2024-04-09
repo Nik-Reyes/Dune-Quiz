@@ -1,4 +1,4 @@
-To run the program, all files and images in the .zip need to be downloaded
+To run the program, all files and images need to be downloaded
 
 Load all files into VScode
 
